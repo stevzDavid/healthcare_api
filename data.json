@@ -17,7 +17,7 @@
         "Discharge Date":"05-06-2025",
         "Medication":"Med A",
         "Test Results":"Positive",
-        "Report":"http:\/\/localhost:5000\/reports\/P1000_report.pdf"
+        "Report":"http://localhost:5000/reports/P1000_report.pdf"
     },
     {
         "Patient ID":"P1001",
@@ -37,7 +37,7 @@
         "Discharge Date":"06-06-2025",
         "Medication":"Med B",
         "Test Results":"Negative",
-        "Report":"http:\/\/localhost:5000\/reports\/P1001_report.pdf"
+        "Report":"http://localhost:5000/reports/P1001_report.pdf"
     },
     {
         "Patient ID":"P1002",
@@ -57,7 +57,7 @@
         "Discharge Date":"07-06-2025",
         "Medication":"Med C",
         "Test Results":"Positive",
-        "Report":"http:\/\/localhost:5000\/reports\/P1002_report.pdf"
+        "Report":"http://localhost:5000/reports/P1002_report.pdf"
     },
     {
         "Patient ID":"P1003",
@@ -77,7 +77,7 @@
         "Discharge Date":"08-06-2025",
         "Medication":"Med D",
         "Test Results":"Negative",
-        "Report":"http:\/\/localhost:5000\/reports\/P1003_report.pdf"
+        "Report":"http://localhost:5000/reports/P1003_report.pdf"
     },
     {
         "Patient ID":"P1004",
@@ -97,7 +97,7 @@
         "Discharge Date":"09-06-2025",
         "Medication":"Med E",
         "Test Results":"Positive",
-        "Report":"http:\/\/localhost:5000\/reports\/P1004_report.pdf"
+        "Report":"http://localhost:5000/reports/P1004_report.pdf"
     },
     {
         "Patient ID":"P1005",
@@ -117,7 +117,7 @@
         "Discharge Date":"10-06-2025",
         "Medication":"Med F",
         "Test Results":"Negative",
-        "Report":"http:\/\/localhost:5000\/reports\/P1005_report.pdf"
+        "Report":"http://localhost:5000/reports/P1005_report.pdf"
     },
     {
         "Patient ID":"P1006",
@@ -137,7 +137,7 @@
         "Discharge Date":"11-06-2025",
         "Medication":"Med G",
         "Test Results":"Positive",
-        "Report":"http:\/\/localhost:5000\/reports\/P1006_report.pdf"
+        "Report":"http://localhost:5000/reports/P1006_report.pdf"
     },
     {
         "Patient ID":"P1007",
@@ -157,7 +157,7 @@
         "Discharge Date":"12-06-2025",
         "Medication":"Med H",
         "Test Results":"Negative",
-        "Report":"http:\/\/localhost:5000\/reports\/P1007_report.pdf"
+        "Report":"http://localhost:5000/reports/P1007_report.pdf"
     },
     {
         "Patient ID":"P1008",
@@ -177,7 +177,7 @@
         "Discharge Date":"13-06-2025",
         "Medication":"Med I",
         "Test Results":"Positive",
-        "Report":"http:\/\/localhost:5000\/reports\/P1008_report.pdf"
+        "Report":"http://localhost:5000/reports/P1008_report.pdf"
     },
     {
         "Patient ID":"P1009",
@@ -197,6 +197,6 @@
         "Discharge Date":"14-06-2025",
         "Medication":"Med J",
         "Test Results":"Negative",
-        "Report":"http:\/\/localhost:5000\/reports\/P1009_report.pdf"
+        "Report":"http://localhost:5000/reports/P1009_report.pdf"
     }
 ]
